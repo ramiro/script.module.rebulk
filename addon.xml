@@ -4,7 +4,7 @@
        version="0.9.0"
        provider-name="Rémi Alvergnat">
   <requires>
-    <import addon="xbmc.python" version="2.24.0"/>
+    <import addon="xbmc.python" version="2.25.0"/>
     <import addon="script.module.six" version="1.9.0"/>
   </requires>
   <extension point="xbmc.python.module"
